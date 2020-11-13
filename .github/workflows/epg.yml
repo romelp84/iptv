@@ -11,7 +11,7 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Message that will be displayed on users'' first issue'
         pr-message: 'Message that will be displayed on users'' first pr'
-- name: Upload files to a GitHub release
+- name: https://epg.best/17e4a-cqzhic.xml.gz
   # You may pin to the exact commit or the version.
   # uses: svenstaro/upload-release-action@e74ff71f7d8a4c4745b560a485cc5fdb9b5b999d
   uses: svenstaro/upload-release-action@2.2.0
